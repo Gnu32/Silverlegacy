@@ -6,7 +6,7 @@ echo .oPYo. o8 8 o    o .oPYo. oPYo. o8oo   o8 odYo.
 echo Yb..    8 8 Y.  .P 8oooo8 8  `'  8      8 8' `8 
 echo   'Yb.  8 8 `b..d' 8.     8      8      8 8   8 
 echo `YooP'  8 8  `YP'  `Yooo' 8      8      8 8   8 
-echo :.....::....::...:::.....:..:::::..:::::....::..
+echo :.....::....::...:::.....:..:::::..::LEGACY.::..
 echo ::::::::::::::::::::::::Major Rasputin 2012:::::
 echo.
 
@@ -105,3 +105,4 @@ if %compile_at_end%==y (
 )
 
 :eof
+pause
