@@ -6,15 +6,15 @@ echo .oPYo. o8 8 o    o .oPYo. oPYo. o8oo   o8 odYo.
 echo Yb..    8 8 Y.  .P 8oooo8 8  `'  8      8 8' `8 
 echo   'Yb.  8 8 `b..d' 8.     8      8      8 8   8 
 echo `YooP'  8 8  `YP'  `Yooo' 8      8      8 8   8 
-echo :.....::....::...:::.....:..:::::..:::::....::..
+echo :.....::....::...:::.....:..:::::..::LEGACY.::..
 echo ::::::::::::::::::::::::Major Rasputin 2012:::::
 echo.
 
 rem ## Source folder to sync. Should be absolute path to your "Distribution" folder
-set source=C:\Users\Gnu32\Documents\C#\Silverfin\Distribution
+set source=C:\Users\Gnu32\Documents\C#\Silverlegacy\Distribution
 
 rem ## Destination to sync to. Can be any valid absolute path, including UNC (e.g. \\SIMSERVERBETA\Silverfin)
-set target=\\SIMSERVERBETA\OpenSim\Silverfin
+set target=\\SIMSERVERBETA\OpenSim\OSGrid
 
 rem ## Files and folders to ignore, seperated by space. Uses standard Windows wildcards
 set ignoredfiles=*.dat *.vshost.* *.so *.dylib *.pdb *.log .gitignore
